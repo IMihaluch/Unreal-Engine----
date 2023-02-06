@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"I:\\Unreal_Engine\\Progect\\Tankogeddon-homework3\\Tankogeddon-homework3\\Tankogeddon\\Source\\Tankogeddon\\Tankogeddon.Build.cs",
+		"I:\\Unreal_Engine\\Progect\\Tankogeddon-homework3\\Tankogeddon-homework3\\Tankogeddon\\Source\\Tankogeddon.Target.cs",
+		"I:\\Unreal_Engine\\Progect\\Tankogeddon-homework3\\Tankogeddon-homework3\\Tankogeddon\\Source\\TankogeddonEditor.Target.cs"
+	],
+	"EngineVersion": "5.1.0"
+}
