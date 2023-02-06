@@ -1,0 +1,61 @@
+Log started at 02/06/2023 19:12:22 (2023-02-06T16:12:22Z)
+Adding event matcher: CompileEventMatcher
+Adding event matcher: LinkEventMatcher
+Adding event matcher: MicrosoftEventMatcher
+Adding event matcher: XoreaxEventMatcher
+No config file at C:\Users\Ivan\Documents\Unreal Engine\UnrealBuildTool\BuildConfiguration.xml
+Configuration will be read from:
+  C:\Users\Ivan\AppData\Roaming\Unreal Engine\UnrealBuildTool\BuildConfiguration.xml
+Log file: I:\Unreal_Engine\Progect\Tankogeddon-homework3\Tankogeddon-homework3\Saved\Logs\UnrealVersionSelector-2023.02.06-19.12.21.log
+
+    Registering build platform: UnrealBuildTool.AndroidPlatformFactory
+Note: Android toolchain NDK r25b recommended
+        Registering build platform: Android - buildable: False
+    Registering build platform: UnrealBuildTool.IOSPlatformFactory
+        Registering build platform: IOS - buildable: False
+    Registering build platform: UnrealBuildTool.LinuxPlatformFactory
+        Registering build platform: Linux - buildable: False
+        Registering build platform: LinuxArm64 - buildable: False
+    Registering build platform: UnrealBuildTool.MacPlatformFactory
+    Registering build platform: UnrealBuildTool.TVOSPlatformFactory
+    Registering build platform: UnrealBuildTool.WindowsPlatformFactory
+Found Windows 10 SDK root at C:\Program Files (x86)\Windows Kits\10 (1)
+Found Windows 10 SDK root at C:\Program Files (x86)\Windows Kits\10 (2)
+Found Windows 10 SDK version 10.0.19041.0 at C:\Program Files (x86)\Windows Kits\10
+Found Universal CRT version 10.0.19041.0 at C:\Program Files (x86)\Windows Kits\10
+Win64 Installed SDK(s): MinVersion_Sdk=10.0.00000.0, MaxVersion_Sdk=10.9.99999.0, CurrentVersion_Sdk=10.0.19041.0, Version_AutoSdk=10.0.18362.0, CurrentVersion_AutoSdk=
+        Registering build platform: Win64 - buildable: True
+    Registering build platform: UnrealBuildTool.HoloLensPlatformFactory
+Log file: C:\Users\Ivan\AppData\Local\UnrealBuildTool\Log_GPF.txt
+Deleting old log file: C:\Users\Ivan\AppData\Local\UnrealBuildTool\Log_GPF-backup-2023.01.30-08.51.58.txt
+Resolved project argument I:/Unreal_Engine/Progect/Tankogeddon-homework3/Tankogeddon-homework3/Tankogeddon.uproject to I:\Unreal_Engine\Progect\Tankogeddon-homework3\Tankogeddon-homework3\Tankogeddon.uproject
+Registering project generator UnrealBuildTool.AndroidProjectGenerator for Android
+Registering project generator UnrealBuildTool.IOSProjectGenerator for IOS
+Registering project generator UnrealBuildTool.LinuxProjectGenerator for Linux
+Registering project generator UnrealBuildTool.LinuxProjectGenerator for LinuxArm64
+Registering project generator UnrealBuildTool.MacProjectGenerator for Mac
+Skipping project file generator registration for Mac due to no valid BuildPlatform.
+Registering project generator UnrealBuildTool.TVOSProjectGenerator for TVOS
+Skipping project file generator registration for TVOS due to no valid BuildPlatform.
+Registering project generator UnrealBuildTool.WindowsProjectGenerator for Win64
+Registering project generator UnrealBuildTool.HoloLensProjectGenerator for HoloLens
+Skipping project file generator registration for HoloLens due to no valid BuildPlatform.
+
+---   SDK INFO START   ---
+
+Some Platforms were skipped due to invalid SDK setup: IOS, Android, Linux, LinuxArm64.
+See the log file for detailed information
+
+---   SDK INFO END   ---
+
+Discovering modules, targets and source code for project...
+Found Visual Studio installation: C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise (Product=Microsoft.VisualStudio.Product.Enterprise, Version=16.11.32106.194)
+Found Visual Studio toolchain: C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133 (Family=14.29.30133, FamilyRank=0, Version=14.29.30139, Is64Bit=True, Preview=False, Architecture=x64, Error=False, Redist=C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Redist\MSVC\14.29.30133)
+Detected supported platforms: Win64, IOS, Android, Linux, LinuxArm64
+Creating project rules assembly for I:\Unreal_Engine\Progect\Tankogeddon-homework3\Tankogeddon-homework3\Tankogeddon.uproject...
+Skipping I:\Unreal_Engine\UE_5.1\Engine\Intermediate\Build\BuildRules\UE5Rules.dll: File is installed
+Skipping I:\Unreal_Engine\UE_5.1\Engine\Intermediate\Build\BuildRules\UE5ProgramRules.dll: File is installed
+ Found 0 Plugins:
+ Found 1 Modules:
+  I:\Unreal_Engine\Progect\Tankogeddon-homework3\Tankogeddon-homework3\Source\Tankogeddon\Tankogeddon.Build.cs
+Compiling I:\Unreal_Engine\Progect\Tankogeddon-homework3\Tankogeddon-homework3\Intermediate\Build\BuildRules\TankogeddonModuleRules.dll: Assembly does not exist
